@@ -1,0 +1,8 @@
+dependencies {
+    pluginImplementation project(":CH")
+    pluginImplementation project(":Gui")
+    testImplementation 'org.hamcrest:hamcrest-all:1.3'
+    testImplementation 'org.mockito:mockito-core:3.12.1'
+    testImplementation 'org.assertj:assertj-core:3.20.2'
+    testImplementation 'org.mockito:mockito-junit-jupiter:3.12.4'
+}

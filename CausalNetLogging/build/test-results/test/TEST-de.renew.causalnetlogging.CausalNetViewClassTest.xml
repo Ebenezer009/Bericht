@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.renew.causalnetlogging.CausalNetViewClassTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-21T14:58:15" hostname="MacBook-Air.local" time="0.015">
+  <properties/>
+  <testcase name="testSetSelectedFormat()" classname="de.renew.causalnetlogging.CausalNetViewClassTest" time="0.015"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
